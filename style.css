@@ -79,5 +79,5 @@ body{
 .piccaption{
     color: rgb(201, 201, 201);
     font-size: 16px;
-
+    text-transform: capitalize;
 }
